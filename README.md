@@ -3,6 +3,7 @@
 OmaniFood is a beautifully designed website for a healthy restaurant, built using **HTML, CSS, and JavaScript**. It provides a modern and engaging user experience with smooth animations and a responsive layout.
 
 ## 🚀 Features
+
 - **Fully Responsive Design** – Optimized for all devices.
 - **Smooth Animations** – Eye-catching transitions and effects.
 - **Modern UI** – Clean and elegant design.
@@ -10,14 +11,18 @@ OmaniFood is a beautifully designed website for a healthy restaurant, built usin
 - **Contact & Reservation** – Easy way to reach out and book tables.
 
 ## 🛠️ Tech Stack
+
 - **HTML** – Structure and content
 - **CSS** – Styling and layout
 - **JavaScript** – Animations and interactivity
 
 ## 📸 Screenshots
-_Add relevant screenshots of the website_
+
+- ![Desktop](screenshots/desktopView.png)
+- ![Mobile](screenshots/mobileView.png)
 
 ## 📂 Project Setup
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/omanifood.git
@@ -29,8 +34,9 @@ _Add relevant screenshots of the website_
 3. Open the `index.html` file in your browser.
 
 ## 📬 Contact
+
 For any inquiries or improvements, feel free to reach out at **ahmedmlotfi@outlook.com**.
 
 ---
-Made with ❤️ by **Ahmed Lotfi**
 
+Made with ❤️ by **Ahmed Lotfi**
